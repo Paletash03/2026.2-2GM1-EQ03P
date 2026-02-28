@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Objetivo del Repositorio
+## Objetivo del Repositorio
 Este repositorio contiene la integración de todas las evidencias del Primer Parcial (Tareas 1 a la 4). El propósito central es documentar y proponer una solución tecnológica y de procesos (BPMN) frente a la crisis financiera ocasionada por la reforma fiscal al IEPS que impacta a la **Cooperativa Pascual**.
 
 ## 📂 Estructura del Proyecto
@@ -17,7 +17,7 @@ El repositorio está organizado de la siguiente manera para facilitar su revisi�
 * [**diagrama**](./diagrama) : Incluye el modelado del proceso "Planeación Financiera Estratégica y Gestión de Crisis" en formato de imagen (`.png`) utilizando la notación BPMN 2.0 (T2).
 * [**entregable_final**](./entregable_final) : Contiene el documento integrador final en PDF correspondiente a la Tarea 5, el cual unifica todas las fases del proyecto.
 
-## ⚙️ Metodología y Herramientas Aplicadas
+## Metodología y Herramientas Aplicadas
 
 Durante este primer parcial aplicamos los siguientes conceptos:
 1. **Modelado de Procesos (BPMN):** Mapeo de decisiones financieras, compuertas lógicas y paralelismo en la suspensión de CAPEX.
@@ -26,7 +26,7 @@ Durante este primer parcial aplicamos los siguientes conceptos:
 
 ## 👥 Integrantes del Equipo
 
-* De la Peña Moralez Zoe]
+* De la Peña Moralez Zoe
 * Gonzales Saavedra Gabriel Alejandro
 * Herrera Jiménez Juan Andres
 * Mancilla Hernández Génesis Yamilett
