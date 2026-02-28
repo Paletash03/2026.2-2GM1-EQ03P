@@ -1,8 +1,8 @@
 # 🧃 Portafolio Parcial 1: Estrategia y Modelado - Caso Cooperativa Pascual
 
-**Unidad de Aprendizaje:** [LABORATORIO EMPRESARIAL. SISTEMAS DE INFORMACIÓN DE GESTIÓN EMPRESARIAL]  
+**Unidad de Aprendizaje:** LABORATORIO EMPRESARIAL. SISTEMAS DE INFORMACIÓN DE GESTIÓN EMPRESARIAL
 **Grupo:** 2GM1  
-**Equipo:** [3]  
+**Equipo:** 3
 
 ---
 
@@ -26,8 +26,8 @@ Durante este primer parcial aplicamos los siguientes conceptos:
 
 ## 👥 Integrantes del Equipo
 
-* [De la Peña Moralez Zoe] 
-* [Gonzales Saavedra Gabriel Alejandro] 
-* [Herrera Jiménez Juan Andres] 
-* [Mancilla Hernández Génesis Yamilett]
-* [Méndez Galaviz Ian Kaled] 
+* De la Peña Moralez Zoe]
+* Gonzales Saavedra Gabriel Alejandro
+* Herrera Jiménez Juan Andres
+* Mancilla Hernández Génesis Yamilett
+* Méndez Galaviz Ian Kaled
