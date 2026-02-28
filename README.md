@@ -13,9 +13,9 @@ Este repositorio contiene la integración de todas las evidencias del Primer Par
 
 El repositorio está organizado de la siguiente manera para facilitar su revisión:
 
-* [**/documentos**](./documentos) : Contiene los documentos de investigación preliminar, el diagnóstico del problema (T1), el catálogo de reglas de negocio (T3) y el reporte de indagación sobre sistemas ERP/CRM/B2B/B2C (T4).
-* [**/diagrama**](./diagrama) : Incluye el modelado del proceso "Planeación Financiera Estratégica y Gestión de Crisis" en formato de imagen (`.png`) utilizando la notación BPMN 2.0 (T2).
-* [**/entregable_final**](./entregable_final) : Contiene el documento integrador final en PDF correspondiente a la Tarea 5, el cual unifica todas las fases del proyecto.
+* [**documentos**](./documentos) : Contiene los documentos de investigación preliminar, el diagnóstico del problema (T1), el catálogo de reglas de negocio (T3) y el reporte de indagación sobre sistemas ERP/CRM/B2B/B2C (T4).
+* [**diagrama**](./diagrama) : Incluye el modelado del proceso "Planeación Financiera Estratégica y Gestión de Crisis" en formato de imagen (`.png`) utilizando la notación BPMN 2.0 (T2).
+* [**entregable_final**](./entregable_final) : Contiene el documento integrador final en PDF correspondiente a la Tarea 5, el cual unifica todas las fases del proyecto.
 
 ## ⚙️ Metodología y Herramientas Aplicadas
 
