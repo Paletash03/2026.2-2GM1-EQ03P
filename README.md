@@ -1,4 +1,4 @@
-# 🧃 Portafolio Parcial 1: Estrategia y Modelado - Caso Cooperativa Pascual
+# Portafolio Parcial 1: Estrategia y Modelado - Caso Cooperativa Pascual
 
 **Unidad de Aprendizaje:** LABORATORIO EMPRESARIAL. SISTEMAS DE INFORMACIÓN DE GESTIÓN EMPRESARIAL
 **Grupo:** 2GM1  
